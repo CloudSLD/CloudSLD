@@ -21,6 +21,3 @@
 </div><br/>
 
 
-### Cursos em andamentos
-
-Estou fazendo curso de Pentest e redes.
